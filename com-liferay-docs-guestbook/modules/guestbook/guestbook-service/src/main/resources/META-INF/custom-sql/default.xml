@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<custom-sql>
+   <sql id="getPetsByName"> 
+      <![CDATA[ 
+         SELECT * FROM Pet p where p.pname = ?
+]]>
+   </sql>
+</custom-sql>

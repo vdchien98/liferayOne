@@ -1,0 +1,12 @@
+#
+#Sun May 28 22:02:04 ICT 2023
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n<classpathentry kind\="src" path\="/guestbook-api"/>\r\n<classpathentry kind\="lib" path\="C\:/Users/vudan/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.portal.api/7.4.3.42-ga42/5312bfa7f06c9ef95e20dc8724dcffe7247bb66b/release.portal.api-7.4.3.42-ga42.jar">\r\n\t<attributes>\r\n\t\t<attribute name\="gradle_used_by_scope" value\=""/>\r\n\t</attributes>\r\n</classpathentry>\r\n</classpath>\n
+buildScriptPath=build.gradle
+linkedResources=
+subprojectPaths=
+managedNatures=org.eclipse.jdt.core.javanature
+hasAutoBuildTasks=false
+gradleVersion=6.6.1
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+derivedResources=.gradle;build

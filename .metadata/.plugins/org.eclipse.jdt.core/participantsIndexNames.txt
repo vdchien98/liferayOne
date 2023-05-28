@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\Liferay\liferayOne\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4123628380.index
+\PortletA\src\main\java
+D:\Liferay\liferayOne\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1686876724.index
+\guestbook-web\src\main\java
+D:\Liferay\liferayOne\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\642944935.index
+\PortletB\src\main\java
+D:\Liferay\liferayOne\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1172014760.index
+\guestbook-web\src\main\java

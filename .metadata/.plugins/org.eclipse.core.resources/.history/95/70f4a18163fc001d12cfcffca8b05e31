@@ -1,0 +1,4 @@
+Bundle-Name: PortletA
+Bundle-SymbolicName: PortletA
+Bundle-Version: 1.0.0
+Export-Package: PortletA.constants

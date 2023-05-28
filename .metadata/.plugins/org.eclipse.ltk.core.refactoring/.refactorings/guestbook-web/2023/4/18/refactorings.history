@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;guestbook-web/src/main/resources/META-INF/resources/css&apos; to &apos;cssc&apos;" description="Rename resource &apos;css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/META-INF/resources/css" name="cssc" stamp="1682875275312" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;guestbook-web/src/main/resources/META-INF/resources/csss&apos; to &apos;css&apos;" description="Rename resource &apos;csss&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/META-INF/resources/csss" name="css" stamp="1682875288784" updateReferences="true"/>
+</session>

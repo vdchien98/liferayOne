@@ -1,0 +1,12 @@
+#
+#Sun May 28 22:02:04 ICT 2023
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+buildScriptPath=build.gradle
+linkedResources=
+subprojectPaths=PortletA;PortletB;guestbook;guestbook-web;guestbook/guestbook-api;guestbook/guestbook-service
+managedNatures=
+hasAutoBuildTasks=false
+gradleVersion=6.6.1
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+derivedResources=.gradle;build;PortletA/build;PortletB/build;guestbook/build;guestbook-web/build;guestbook/guestbook-api/build;guestbook/guestbook-service/build

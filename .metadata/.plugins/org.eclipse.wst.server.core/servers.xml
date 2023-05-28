@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-time="0" hostname="localhost" id="Liferay 7.x at localhost" name="Liferay 7.x at localhost" runtime-id="Liferay Community Edition Portal 7.4.3.42 CE GA42" server-type="com.liferay.ide.server.portal" server-type-id="com.liferay.ide.server.portal" start-timeout="900" stop-timeout="300" timestamp="4">
+    <list key="modules" value0="guestbook-web::com.liferay.ide.project.core.bundleFactory:guestbook-web::liferay.bundle::1.0" value1="guestbook-api::com.liferay.ide.project.core.bundleFactory:guestbook-api::liferay.bundle::1.0" value2="guestbook-service::com.liferay.ide.project.core.bundleFactory:guestbook-service::liferay.bundle::1.0" value3="PortletA::com.liferay.ide.project.core.bundleFactory:PortletA::liferay.bundle::1.0" value4="PortletB::com.liferay.ide.project.core.bundleFactory:PortletB::liferay.bundle::1.0"/>
+  </server>
+</servers>

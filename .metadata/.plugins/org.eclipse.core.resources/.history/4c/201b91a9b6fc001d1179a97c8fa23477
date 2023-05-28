@@ -1,0 +1,6 @@
+Bundle-Name: guestbook-web
+Bundle-SymbolicName: com.liferay.docs.guestbook.portlet
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.liferay.docs.guestbook.portlet.constants,\
+	com.liferay.docs.guestbook.portlet.portlet
